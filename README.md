@@ -85,7 +85,7 @@ Estudante apaixonado por testes de penetração em aplicações web, análise de
 </div>
 
 ---
-<!--
+
 ## 📂 Projetos de Segurança
 
 > *Cada repositório abaixo é uma cicatriz de aprendizado — prova de conceito construída com intenção, não com sorte.*
@@ -107,7 +107,7 @@ Scanner automatizado que identifica endpoints vulneráveis a injeção de SQL, X
 [![Código](https://img.shields.io/badge/🔗_Repositório-GitHub-181717?style=flat-square&logo=github)](https://github.com/SLGusta/web-vuln-scanner)
 
 ---
-
+<!--
 ### 💉 `sqli-lab-notes`
 > **Laboratório documentado de SQL Injection — Do básico ao Blind**
 
