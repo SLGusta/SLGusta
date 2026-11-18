@@ -2,11 +2,6 @@
 
 # 🛡️ Olá, sou Gusthavo Lima
 
-### Segurança Ofensiva · Web App Pentester · Bug Hunter em Formação
-
-*Explorando superfícies de ataque, um payload de cada vez.*  
-Estudante apaixonado por testes de penetração em aplicações web, análise de vulnerabilidades OWASP e construção de ferramentas ofensivas. Em constante evolução — porque no mundo da segurança, quem para de aprender, fica para trás.
-
 <br/>
 
 [![Disponível para Oportunidades](https://img.shields.io/badge/Status-Disponível%20para%20Oportunidades-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/SLGusta)
