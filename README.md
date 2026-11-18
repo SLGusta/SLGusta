@@ -3,11 +3,6 @@
 # 🛡️ Olá, sou Gusthavo Lima
 
 <br/>
-
-[![Disponível para Oportunidades](https://img.shields.io/badge/Status-Disponível%20para%20Oportunidades-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/SLGusta)
-[![Perfil](https://img.shields.io/badge/Foco-Web%20App%20Pentest-red?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/SLGusta)
-[![Nível](https://img.shields.io/badge/Nível-Estudante%20%2F%20Junior-blue?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/SLGusta)
-
 </div>
 
 ---
@@ -59,14 +54,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-*"O atacante só precisa ter razão uma vez. O defensor precisa ter razão sempre."*  
-— Máxima da Segurança Ofensiva
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=SLGusta&color=FF6633&style=flat-square&label=Visualizações+do+Perfil)
-
-</div>
